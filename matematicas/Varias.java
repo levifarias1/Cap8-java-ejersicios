@@ -2,6 +2,7 @@ package matematicas;
 
 public class Varias {
     /**
+     * Ejersicio 1
      * Los numeros capicuas son los que se escriben igual de izquierda a derecha
      * @param numerole el numero a comprobar
      * @return devuelve falso cuando no es capicua
@@ -21,7 +22,7 @@ public class Varias {
             return true;
         }else{
             return false;
-            
+
         
         }
     }
